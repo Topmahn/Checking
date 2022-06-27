@@ -1,0 +1,29 @@
+.container {
+    width: 950px;
+    margin: 40px auto;
+  }
+  .one,
+  .two {
+    width: 45%;
+    display: inline-block;
+  }
+
+  .two p{
+    margin-top: 0;
+  }
+
+  .container-1{
+    width: 950px;
+    margin: 40px auto;
+    display: flex;
+  }
+
+  .three, .four{
+    width: 45%;
+
+  }
+
+  .four p{
+   margin-top: 0 ;
+  }
+
